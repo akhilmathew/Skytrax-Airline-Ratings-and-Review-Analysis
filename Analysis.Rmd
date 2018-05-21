@@ -317,4 +317,4 @@ newKeywordConstruct <- data.frame(Entropy, Topic)
 
 #Reflections
 
-It was a deep exploration. We have found the segments in the airlines, especially the poorly rated ones. Focusing our analysis onto those airlines pointed us to a few reasons why they are under rated. Recommendations are formulated according to these findings.Please find it in the presentation included.
+It was a deep exploration. We have found the segments in the airlines, especially the poorly rated ones. Focusing our analysis onto those airlines pointed us to a few reasons why they are under rated. Recommendations are documented according to these findings.Please find it in the presentation included.
